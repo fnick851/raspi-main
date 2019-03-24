@@ -1,0 +1,22 @@
+{
+  "name": "raspberry_pi_main_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fnick851/raspi_main.git"
+  },
+  "author": "Noah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fnick851/raspi_main/issues"
+  },
+  "homepage": "https://github.com/fnick851/raspi_main#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
