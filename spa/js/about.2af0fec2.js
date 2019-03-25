@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(e,t,a){"use strict";a.r(t);var n=function(){var e=this,t=e.$createElement,a=e._self._c||t;return a("div",{staticClass:"about"},[a("Hello",{attrs:{msg:"Hey there, here is the About page."}})],1)},o=[],s=a("2b0e"),l=a("dafa"),u=s["a"].extend({name:"home",components:{Hello:l["a"]}}),r=u,c=a("2877"),i=Object(c["a"])(r,n,o,!1,null,null,null);t["default"]=i.exports}}]);
+//# sourceMappingURL=about.2af0fec2.js.map
